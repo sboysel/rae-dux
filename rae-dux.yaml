@@ -1,13 +1,13 @@
 units:
-  kx: cx
-  ky: cy
+  kx: U
+  ky: U
   px: 2
   py: 2
 points:
   key:
     footprints:
-      choc_hotswap:
-        type: choc
+      mx_hotswap:
+        type: mx
         nets:
           from: =column_net
           to: GND
@@ -15,8 +15,8 @@ points:
             keycaps: true
             reverse: true
             hotswap: true
-      choc:
-        type: choc
+      mx:
+        type: mx
         anchor:
           rotate: 180
         nets:
