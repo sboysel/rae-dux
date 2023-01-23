@@ -107,19 +107,19 @@ points:
       columns:
         near:
           spread: kx
-          rotate: -15
+          rotate: -30
           origin: [-1.5 kx, -0.5 ky]
           key:
             column_net: P7
         home:
           spread: kx
-          rotate: -15
+          rotate: -30
           origin: [-0.5 kx, -0.5 ky]
           key:
             column_net: P8
         far:
           spread: kx
-          rotate: -15
+          rotate: -30
           origin: [-0.5 kx, -0.5 ky]
           key:
             column_net: P9
